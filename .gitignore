@@ -5,7 +5,6 @@ _build
 _opam
 .bsb.lock
 .merlin
-dune
 dune.mel
 .melange.eobjs
 dist/
