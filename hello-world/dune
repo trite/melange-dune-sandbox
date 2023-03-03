@@ -1,0 +1,3 @@
+(melange.emit
+ (target output)
+ (module_system commonjs))
